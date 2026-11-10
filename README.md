@@ -10,7 +10,7 @@ BentoDrop converts **WAV, AIFF, CAF, FLAC, and AAC**. It also recognises **MP3, 
 
 Named sync jobs keep a record of what transferred, what was skipped, and why. You can export the log, rerun a job, or preview and organise samples directly on the card. BentoDrop also helps you back up the card and prepare firmware updates.
 
-[Download BentoDrop for macOS 15 or later](https://github.com/andypduk/BentoDrop-Updates/releases/latest)
+[Download BentoDrop for macOS 15 or later](https://github.com/andypduk/BentoDrop-Updates/releases/latest) · [Support BentoDrop on Buy Me a Coffee](https://buymeacoffee.com/5mxgczkjwy)
 
 [All releases](https://github.com/andypduk/BentoDrop-Updates/releases) · [Full help guide](docs/Help.md)
 
