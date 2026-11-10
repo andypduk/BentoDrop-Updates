@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BentoDrop isolated updater test</title>
+    <item>
+      <title>BentoDrop 1.0 (904)</title>
+      <sparkle:version>904</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/andypduk/BentoDrop-Updates/releases/download/updater-test-904/BentoDrop-UpdaterTest-904.dmg" length="9481468" type="application/octet-stream" sparkle:edSignature="cDO28Xu+dr+k2VK6mimvrtqXsPXLmf9fc6jOuN8Pk6gQ9v+zTCBbaqAGKuWVPfQ+d0E4qNQnaD3B2QRKEVrkBw=="/>
+    </item>
+  </channel>
+</rss>
