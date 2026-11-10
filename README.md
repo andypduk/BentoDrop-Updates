@@ -2,9 +2,17 @@
 
 # BentoDrop
 
-BentoDrop is a macOS app for preparing samples and managing the SD card used by the **1010 Music Bento**. It converts audio to verified 48 kHz, 24-bit WAV, keeps a log of each sync, and helps you back up the card and prepare firmware updates.
+## BentoDrop brings your samples to the 1010 Music Bento
 
-[Latest stable release](https://github.com/andypduk/BentoDrop-Updates/releases/latest) · [All releases](https://github.com/andypduk/BentoDrop-Updates/releases) · [Full help guide](docs/Help.md)
+BentoDrop is a macOS app that takes the manual work out of preparing sample packs for the 1010 Music Bento. Choose files or folders, pick a destination on the SD card, and decide whether to skip or overwrite matching samples. BentoDrop converts and verifies each transfer as **48 kHz, 24-bit integer PCM WAV**, in mono or stereo.
+
+BentoDrop converts **WAV, AIFF, CAF, FLAC, and AAC**. It also recognises **MP3, MP2, MPEG-4 audio, 3GPP, AU, SND, Sound Designer II, Ogg Vorbis, and Opus**; conversion depends on whether macOS can decode the file’s encoding. Samples can be up to **30 seconds** long.
+
+Named sync jobs keep a record of what transferred, what was skipped, and why. You can export the log, rerun a job, or preview and organise samples directly on the card. BentoDrop also helps you back up the card and prepare firmware updates.
+
+[Download BentoDrop for macOS 15 or later](https://github.com/andypduk/BentoDrop-Updates/releases/latest)
+
+[All releases](https://github.com/andypduk/BentoDrop-Updates/releases) · [Full help guide](docs/Help.md)
 
 ## Install and connect
 
