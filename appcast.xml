@@ -3,6 +3,14 @@
     <channel>
         <title>BentoDrop</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Tue, 10 Nov 2026 16:48:17 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/andypduk/BentoDrop-Updates/releases/download/v1.0.4/BentoDrop.dmg" length="9490885" type="application/octet-stream" sparkle:edSignature="DlT/4an5psimFZpasqaxbigQ/R08LzmH7geiNpt8WdBDFXyrVpd8NLysB1eTCk10XvVX6pVNX5kf+a4WYjM2Dw=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Tue, 10 Nov 2026 16:18:55 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
