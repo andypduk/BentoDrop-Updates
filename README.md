@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Resources/AppIcon-1024.png" alt="BentoDrop app icon: a frosted download arrow above a sampler with amber pads" width="144" height="144">
-</p>
+![BentoDrop — sample transfer for Mac](Resources/BentoDrop-Publicity-1600x400.png)
 
 # BentoDrop
 
