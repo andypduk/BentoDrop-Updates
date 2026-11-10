@@ -14,7 +14,7 @@ Named sync jobs keep a record of what transferred, what was skipped, and why. Yo
 
 [![Support BentoDrop on Buy Me a Coffee](Resources/support-bentodrop.svg)](https://buymeacoffee.com/5mxgczkjwy)
 
-[All releases](https://github.com/andypduk/BentoDrop-Updates/releases) · [Full help guide](docs/Help.md)
+[All releases](https://github.com/andypduk/BentoDrop-Updates/releases) · [Full help guide](docs/Help.md) · [Support](SUPPORT.md)
 
 ## Install and connect
 
