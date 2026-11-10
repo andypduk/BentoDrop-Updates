@@ -72,3 +72,7 @@ Use **Card → Back Up Card…** or **Restore Card…** to back up or restore th
 4. Eject the card and finish installation on the 1010 Music Bento using its bootloader. Follow the wizard’s device instructions and check the installed version with **PROJ**. The version on the SD card alone does not tell you which firmware the device is running.
 
 For more help, choose **Help → Bento Drop Help** in the app or read the [full help guide](docs/Help.md), including [troubleshooting](docs/Help.md#troubleshooting).
+
+## Documentation licence
+
+The written README and Help guide are licensed under [CC BY 4.0](LICENSE.md). This licence applies to the documentation only.

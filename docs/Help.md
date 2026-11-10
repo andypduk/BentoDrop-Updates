@@ -489,3 +489,7 @@ Bookmarks, the Library index, and the saved queue live in:
 `~/Library/Application Support/Bento Drop/`
 
 The app only reads folders you add and the card you grant. Temporary convert files are deleted after copy. Firmware check reads the 1010music downloads page.
+
+## Documentation licence
+
+The written Help guide is licensed under [CC BY 4.0](../LICENSE.md).
