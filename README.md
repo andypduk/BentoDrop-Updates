@@ -16,6 +16,12 @@ Named sync jobs keep a record of what transferred, what was skipped, and why. Yo
 
 [All releases](https://github.com/andypduk/BentoDrop-Updates/releases) · [Full help guide](docs/Help.md) · [Support](SUPPORT.md)
 
+## System requirements
+
+- **macOS 15 Sequoia or later.**
+- **Apple silicon or Intel Mac** that supports macOS 15. The download is a universal Mac app.
+- A **1010 Music Bento** in SD Reader Mode over a USB-C data cable, or its microSD card in a card reader.
+
 ## Install and connect
 
 1. On a Mac running macOS 15 or later, download `BentoDrop.dmg` from GitHub Releases. Open it and drag BentoDrop into **Applications**.
