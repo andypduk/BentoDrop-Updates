@@ -18,7 +18,7 @@ Named sync jobs keep a record of what transferred, what was skipped, and why. Yo
 
 [Download the illustrated BentoDrop user manual (Word)](docs/BentoDrop-User-Manual.docx)
 
-The manual covers BentoDrop 1.0.4 build 13, including the 16-track drum MIDI workflow. Check GitHub Releases for the latest public installer.
+The manual covers BentoDrop 1.0.4 build 15, including batch MIDI import, 16-track drum mapping, and the Sequences, Scenes, and Song arranger. Check GitHub Releases for the latest public installer.
 
 ## System requirements
 
